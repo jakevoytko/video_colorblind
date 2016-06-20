@@ -47,3 +47,15 @@ Testing
 `bazel test :all_tests`
 
 Unit coverage is limited to the color functions. Modify carefully.
+
+
+Output
+------
+
+A video that simulates what a protanope will see
+
+The RMSE in XYZ (between the original and protanope) is printed in the
+upper-left corner
+
+Sample video: [original](https://www.youtube.com/watch?v=SAFia4E_k24),
+[processed](https://www.youtube.com/watch?v=EZD2dmlw9_Q).
